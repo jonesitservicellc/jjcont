@@ -1,0 +1,5 @@
+# /.well-known/mta-sts.txt
+version: STSv1
+mode: testing
+mx: smtp.gmail.com
+max_age: 86400
